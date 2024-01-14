@@ -1,0 +1,22 @@
+{
+  "name": "library_mgmt_system",
+  "version": "1.0.0",
+  "description": "add description here",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbozin/library_mgmt_system.git"
+  },
+  "author": "Carolyn Bozin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbozin/library_mgmt_system/issues"
+  },
+  "homepage": "https://github.com/cbozin/library_mgmt_system#readme",
+  "dependencies": {
+    "create-next-app": "^14.0.4"
+  }
+}
